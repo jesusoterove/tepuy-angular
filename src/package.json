@@ -1,0 +1,31 @@
+{
+  "name": "tepuy-angular",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesusoterove/tepuy-angular.git"
+  },
+  "author": {
+    "name": "Jesus Otero",
+    "email": "jesusoterove@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusoterove/tepuy-angular.git/issues"
+  },
+  "main": "tepuy-angular.umd.js",
+  "module": "tepuy-angular.js",
+  "jsnext:main": "tepuy-angular.js",
+  "typings": "tepuy-angular.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.5.3"
+  }
+}
